@@ -24,4 +24,4 @@ jobs:
         context: .
         push: true
         provenance: false
-        tags: carlajesusdesign/cesae-devops-my-page:latest
+        tags: carlajesusdesign/cesae-devops-my-page:latest 
